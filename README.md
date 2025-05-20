@@ -2,14 +2,14 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Python+Developer;Web+Developer;Active+Learner;Fanatic+of+self+improvement..<3">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Data+Scientist;I'm+Python+Developer;I'm+Web+Developer;Of+course+I'm+an+active+learner;And+Fanatic+of+self+improvement..<3">
 </a>
 </p>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 	
 ##  🔥  **About me**
-<br>
+
 
 - 🎓 I recently earned my professional certification as a Data Scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
 
@@ -74,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br>
 
-## My Bests Projects <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## 🛠️ My Bests Projects
 
 <div align="center">
 	<br>
@@ -106,21 +106,19 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
-  <br/>
+	    <a href="https://github.com/flavioaguirre?tab=repositories"><img alt="Flavio Aguirre Github Stats" src="https://github-readme-stats.vercel.app/api?username=flavioaguirre&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+	<br/>
+	  &nbsp;
+		  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavioaguirre&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flavioaguirre" height="192px"/>
+	  <br/>
+	  <div align="center">
+	<a href="https://github.com/flavioaguirre?tab=repositories">
+	  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavioaguirre&theme=tokyonight&hide_border=true)](https://github.com/flavioaguirre)" alt="Flavio GitHub Stats Graph"/>
+	</a>
+	<br><br>
+	</div>
+
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
