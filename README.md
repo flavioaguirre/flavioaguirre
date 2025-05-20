@@ -11,9 +11,13 @@
 ##  🔥  **About me**
 <br>
 
-- 🎓 Recently certified data scientist with a professional certification from IBM. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
-- 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects. -[View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)- <br>
+- 🎓 I recently earned my professional certification as a data scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
+
+- 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects.
+-[View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)- <br>
+
 - 🚀 I’m currently on my first big job opportunity, this is my [my resume](https://read.cv/0xabdulkhalid<br>) <br>
+
 - 💼 Currently working outside the IT field.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -57,7 +61,7 @@
 
 - **Softwares and Tools**:
     
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,ai)](https://skillicons.dev) <br>
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,ai)](https://skillicons.dev) 
      <img style="height: 3rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
     
 
