@@ -11,7 +11,7 @@
 ##  🔥  **About me**
 <br>
 
-- 🎓 I recently earned my professional certification as a data scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
+- 🎓 I recently earned my professional certification as a Data Scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
 
 - 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects.
 -[View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)- <br>
@@ -23,7 +23,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
+<br>
 <p align="center">
 
 - **Languages**:
@@ -69,4 +69,28 @@
 
     [![My Skills](https://skillicons.dev/icons?i=powershell,discord)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+<h2>Contact Me   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"></h2>
+<p>
+<img hight="400" width="400" align="right" alt="GIF" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
+
+If you want to contact me for anything, whether it's a question or just to expand your network, don't hesitate.
+
+<br>
+<a href="mailto:flavioaguirre0@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+ </p>
+</p>
+
