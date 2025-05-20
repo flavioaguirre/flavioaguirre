@@ -10,7 +10,7 @@
 	
 ##  🔥  **About me**
 
-
+<br>
 - 🎓 I recently earned my professional certification as a Data Scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
 
 - 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects.
