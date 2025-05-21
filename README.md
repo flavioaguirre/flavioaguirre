@@ -17,7 +17,7 @@
 - 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects.
 -[View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)- <br>
 
-- 🚀 I’m currently on my first big job opportunity, this is my [my resume](https://drive.google.com/file/d/1m2EVB5jx_-b2Uy2EJt_qYZkEZDQByVlf/view?usp=sharing) <br>
+- 🚀 I’m currently on my first big job opportunity, this is my [my resume](https://drive.google.com/file/d/1W-0qVRf1Gibuq4WgRHYaInhIqbBocKjc/view?usp=sharing) <br>
 
 - 💼 Currently working outside the IT field.
 
