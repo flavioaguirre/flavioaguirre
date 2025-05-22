@@ -102,9 +102,6 @@
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
 	    <a href="https://github.com/flavioaguirre?tab=repositories"><img alt="Flavio Aguirre Github Stats" src="https://github-readme-stats.vercel.app/api?username=flavioaguirre&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
@@ -120,7 +117,6 @@
 	</div>
 
   </p>
-</details>
 
 <br/>
 
