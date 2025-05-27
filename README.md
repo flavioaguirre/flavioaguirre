@@ -25,6 +25,7 @@ I add intention to every line of code.
 I don't just solve problems, I also think functionally.
 I'm constantly learning, without fear of making mistakes,
 because growth is my driving force. 🔥🔥🔥
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
