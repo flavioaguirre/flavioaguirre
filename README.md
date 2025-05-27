@@ -20,6 +20,11 @@
 - 🚀 I’m currently on my first big job opportunity, this is my [my resume](https://drive.google.com/file/d/1W-0qVRf1Gibuq4WgRHYaInhIqbBocKjc/view?usp=sharing) <br>
 
 - 💼 Currently working outside the IT field.
+<br>
+I add intention to every line of code.
+I don't just solve problems, I also think functionally.
+I'm constantly learning, without fear of making mistakes,
+because growth is my driving force. 🔥🔥🔥
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
