@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Data+Scientist;I'm+Python+Developer;I'm+Web+Developer;Of+course+I'm+an+active+learner;And+Fanatic+of+self+improvement..<3">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Data+Scientist;I'm+Python+Developer;I'm+Web+Developer;I+build+solutions+with+code;I+learn+every+day+to+stay+sharp;Focused%2C+adaptable%2C+and+committed+to+growth">
 </a>
 </p>
 
@@ -12,19 +12,20 @@
 
 <br>
 
-- 🎓 I recently earned my professional certification as a Data Scientist. -[View Certificate](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7)- <br>
+- 🎓 I have a [Professional Certification](https://coursera.org/share/e1bf682c0ff12bd89baf32ec7de5b6e7) as a Data Scientist.  <br>
 
-- 🌎 A platform that credibly endorses my knowledge, having awarded badges that verify said knowledge in Data Science and other subjects.
--[View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)- <br>
+- 🚀 Verifiable certifications in Data Science and other areas.
+My knowledge is endorsed by digital badges issued by official platforms such as [Credly](https://info.credly.com/).<br>
+🔗 [View badges on Credly](https://www.credly.com/users/flavio-aguirre.84c58337) <br>
 
-- 🚀 I’m currently on my first big job opportunity, this is my [my resume](https://drive.google.com/file/d/1W-0qVRf1Gibuq4WgRHYaInhIqbBocKjc/view?usp=sharing) <br>
 
-- 💼 Currently working outside the IT field.
+- 💼 🎯 Looking to join a team where I can add value through applied Data Science.
+My technical background, modular thinking, and experience with real-world projects are ready to contribute from day one.<br>
+📄 [See full CV](https://drive.google.com/file/d/1W-0qVRf1Gibuq4WgRHYaInhIqbBocKjc/view?usp=sharing) <br>
+
 <br>
-I add intention to every line of code.
-I don't just solve problems, I also think functionally.
-I'm constantly learning, without fear of making mistakes,
-because growth is my driving force. 🔥🔥🔥
+I focus on writing clear, functional, and well-founded code. I learn quickly, adapt even more quickly, and am constantly evolving technically.
+I work with intention, not improvisation: each solution seeks to add real value.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
