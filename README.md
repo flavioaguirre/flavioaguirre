@@ -8,7 +8,7 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 	
-##  🔥  **About me**
+##  👤  **About me**
 
 <br>
 
