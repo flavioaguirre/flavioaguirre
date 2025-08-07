@@ -111,17 +111,16 @@ I work with intention, not improvisation: each solution seeks to add real value.
 
   <br/>
   <p align="center">
-	    <a href="https://github.com/flavioaguirre?tab=repositories"><img alt="Flavio Aguirre Github Stats" src="https://github-readme-stats.vercel.app/api?username=flavioaguirre&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+	    <a href="https://github.com/flavioaguirre?tab=repositories"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavioaguirre&theme=tokyonight&hide_border=true)](https://github.com/flavioaguirre)" alt="Flavio GitHub Stats Graph"/></a><br>
 	<br/>
 	  &nbsp;
-		  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavioaguirre&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flavioaguirre" height="192px"/>
+		  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flavioaguirre&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flavioaguirre" height="192px"/><br>
 	  <br/>
 	  <div align="center">
-	<a href="https://github.com/flavioaguirre?tab=repositories">
-	  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavioaguirre&theme=tokyonight&hide_border=true)](https://github.com/flavioaguirre)" alt="Flavio GitHub Stats Graph"/>
-	</a>
-	<br><br>
-	</div>
+		<a href="https://github.com/flavioaguirre?tab=repositories">
+		</div>	  
+		</a>
+	<br>
 
   </p>
 
