@@ -86,7 +86,7 @@ I work with intention, not improvisation: each solution seeks to add real value.
 
 <div align="center">
 	<br>
-<a href="https://github.com/flavioaguirre/precipi-check">
+<a href="https://github.com/flavioaguirre/byebye-predictor">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=precipi-check&theme=tokyonight" />
 </a>  
 
@@ -94,7 +94,7 @@ I work with intention, not improvisation: each solution seeks to add real value.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=datascience-capstone&theme=tokyonight" />
 </a> <br>
 
-<a href="https://github.com/flavioaguirre/eda-with-sql">
+<a href="https://github.com/flavioaguirre/precipi-check">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=eda-with-sql&theme=tokyonight" />
 </a>  
 
