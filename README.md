@@ -87,7 +87,7 @@ I work with intention, not improvisation: each solution seeks to add real value.
 <div align="center">
 	<br>
 <a href="https://github.com/flavioaguirre/byebye-predictor">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=precipi-check&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=byebye-predictor&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/flavioaguirre/datascience-capstone">
