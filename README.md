@@ -95,7 +95,7 @@ I work with intention, not improvisation: each solution seeks to add real value.
 </a> <br>
 
 <a href="https://github.com/flavioaguirre/precipi-check">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=eda-with-sql&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=precipi-check&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/flavioaguirre/data-analysis-ibm">
