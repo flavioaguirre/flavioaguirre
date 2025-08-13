@@ -142,7 +142,6 @@ If you want to contact me for anything, whether it's a question or just to expan
 </br>
 </br>
 </a>
-
  </p>
 </p>
 
