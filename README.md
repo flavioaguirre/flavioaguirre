@@ -21,7 +21,7 @@ My knowledge is endorsed by digital badges issued by official platforms such as 
 
 - 💼 🎯 Looking to join a team where I can add value through applied Data Science.
 My technical background, modular thinking, and experience with real-world projects are ready to contribute from day one.<br>
-📄 [See full CV](https://drive.google.com/file/d/1W-0qVRf1Gibuq4WgRHYaInhIqbBocKjc/view?usp=sharing) <br>
+📄 [See full CV](https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing) <br>
 
 <br>
 I focus on writing clear, functional, and well-founded code. I learn quickly, adapt even more quickly, and am constantly evolving technically.
