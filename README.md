@@ -108,7 +108,7 @@ Currently completing the IBM AI Engineering Professional Certificate (12-course 
 
 ---
 
-## Engineering Signals (What Recruiters Care About)
+## Engineering Signals
 - Reproducibility: requirements.txt / pyproject, fixed seeds, data/model versioning (basic).
 - Structure: notebooks/ vs src/ modules, scripts/, reports/figures.
 - Quality: lint (ruff/black), minimal unit tests (pytest) for core functions.
