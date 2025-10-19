@@ -9,7 +9,8 @@
 <p align="center">
   Rosario, Santa Fe (AR) · 
   <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> · 
-  <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">Credly</a> 
+  <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">Credly</a>  · 
+  <a href="mailto:flavioaguirre0@gmail.com">Email</a>
 </p>
 
 <!-- Botón de CV destacado -->
@@ -120,12 +121,13 @@ If a project is interesting to you, I can quickly add a demo or API endpoint.
 
 ## Certifications
 - IBM Data Science Professional Certificate — Verified on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
-- In progress: IBM AI Engineering Professional Certificate (12 courses).
+- In progress: IBM AI Engineering Professional Certificate.
 
 ---
 
 ## Contact
-- <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> 
 - Location: Rosario, Santa Fe (AR)
+- <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> 
 - <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">My CV</a>
+- <a href="mailto:flavioaguirre0@gmail.com">Email</a>
 
