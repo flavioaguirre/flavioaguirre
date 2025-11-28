@@ -48,8 +48,8 @@ Currently completing the IBM AI Engineering Professional Certificate (12-course 
 - NLP: Hugging Face Transformers (intro), spaCy
 - MLOps: Docker, FastAPI, DVC (basic), GitHub Actions (CI)
 - Visualization: Matplotlib, Seaborn, Plotly
-- Databases: PostgreSQL, SQLite
-- Cloud & Tools: Google Colab, Hugging Face Spaces, VSCode, Git
+- Databases: PostgreSQL, SQLite, MySQL, MongoDB
+- Cloud & Tools: Google Colab, Hugging Face Spaces, VSCode, Git, Excel
 - App/Demos: Streamlit, Gradio
 - Soft: Clear communication, fast learning, documentation-first
 
@@ -89,7 +89,7 @@ Currently completing the IBM AI Engineering Professional Certificate (12-course 
 ### 2) Precipi-Check — Will It Rain Tomorrow?
 - Goal: predict precipitation using historical signals (temperature, humidity, wind).
 - What I did: feature pipeline, baseline vs ML model, evaluation and interpretability ideas.
-- Next: seasonal evaluation and feature importance analysis; deploy demo.
+- API: seasonal evaluation and feature importance analysis; deploy demo.
 - Repo: [precipi-check](https://github.com/flavioaguirre/precipi-check)
 
 ### 3) Data Science Capstone (IBM)
