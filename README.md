@@ -30,7 +30,8 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 - Communication-first: concise READMEs, metrics that matter, and business framing.
 - Engineering mindset: versioned artifacts, tests, simple CI, and deployment basics.
 
-Currently completing the IBM AI Engineering Professional Certificate (12-course track). I hold the IBM Data Science Professional Certificate.
+I am currently working as a freelancer, delivering a full e-commerce website with a shopping cart system for an ice factory based in Rosario, Santa Fe (Argentina).
+
 
 ---
 
@@ -79,32 +80,77 @@ Currently completing the IBM AI Engineering Professional Certificate (12-course 
   </a>
 </p>
 
-### 1) Byebye Predictor — Churn Prediction (Telecom)
-- Goal: reduce customer churn via binary classification.
-- Result: baseline AUC ≈ 0.84; roadmap to integrate sentiment signals.
-- What I did: data cleaning, feature engineering, model comparison, metrics per class.
-- Next: add class imbalance strategies (class_weight/SMOTE), threshold tuning, Gradio demo + FastAPI endpoint.
-- Repo: [byebye-predictor](https://github.com/flavioaguirre/byebye-predictor)
+### 1) ByeBye Predictor — Hybrid Telco Churn Prediction (Top Project)
 
-### 2) Precipi-Check — Will It Rain Tomorrow?
-- Goal: predict precipitation using historical signals (temperature, humidity, wind).
-- What I did: feature pipeline, baseline vs ML model, evaluation and interpretability ideas.
-- API: seasonal evaluation and feature importance analysis; deploy demo.
-- Repo: [precipi-check](https://github.com/flavioaguirre/precipi-check)
+**Goal:** Predict Telco customer churn by combining structured data (contracts, billing, services) with Spanish text-based churn-intent signals (Reddit comments).  
+**Result:** End-to-end, production-style pipeline with a hybrid Logistic Regression model achieving approximately **F1 ≈ 0.83** and **Accuracy ≈ 0.82** on a held-out test set.
 
-### 3) Data Science Capstone (IBM)
-- Applied end-to-end DS workflow to a real-like business problem.
-- From EDA to results with clear communication and reproducibility.
-- Repo: [datascience-capstone](https://github.com/flavioaguirre/datascience-capstone)
+**What I did:**
 
-### 4) EDA with SQL — Chicago Open Data
-- SQL-based exploration in Jupyter for real-world datasets.
-- Repo: [eda-with-sql](https://github.com/flavioaguirre/eda-with-sql)
+- Designed a **clean, modular project structure** (`data/`, `notebooks/`, `src/`, `tests/`) with reusable utilities for:
+  - Data loading and cleaning,
+  - EDA and feature engineering,
+  - Model training, cross-validation, and evaluation.
+- Built a baseline **Telco churn model** using curated structured features:
+  - Encoders, imputers, and scalers via `ColumnTransformer`,
+  - Logistic Regression and tree-based models orchestrated through a custom `ModelBuilder`.
+- Developed a **Spanish NLP pipeline** to detect churn intent in Reddit comments:
+  - Custom `TextCleaner` (lowercasing, URLs/punctuation/digits removal, Spanish stopwords),
+  - TF‑IDF with 1–2 grams + `TruncatedSVD` for dimensionality reduction,
+  - Logistic Regression (`class_weight="balanced"`) to produce `nlp_churn_score` for each comment.
+- Integrated text into a **hybrid churn model** by simulating realistic customer-level aggregates:
+  - `nlp_churn_score_max_30d`,
+  - `nlp_churn_score_mean_90d`,
+  - `nlp_churn_high_risk_count_30d`.
+- Evaluated baseline vs hybrid using a dedicated `ModelEvaluator`:
+  - Metrics: Accuracy, Precision, Recall, F1,
+  - Confusion matrices, ROC curves, Precision–Recall curves,
+  - Visual F1 comparison between structured-only and hybrid feature spaces.
+- Persisted final models with `joblib` and documented an **end-to-end scoring demo**:
+  - Modify only text-based aggregates to simulate high-risk customers,
+  - Show how churn probability reacts to new text-derived risk signals.
 
-### 5) TechBlog — Python Full-Stack Project
-- Social network prototype with backend concepts, DB and logic in Python.
-- Additions planned: tests for views/models and architecture diagram.
-- Repo: [techblog](https://github.com/flavioaguirre/techblog)
+**Next steps:**
+
+- Replace synthetic aggregates with **real** `nlp_churn_score` features joined via `customerID`.
+- Explore additional models (XGBoost, LightGBM, calibrated classifiers) in `ModelBuilder`.
+- Exposing the hybrid model and the text model behind an **API (FastAPI)** with monitoring and retraining strategy.
+
+**Repo:** [byebye-predictor](https://github.com/flavioaguirre/byebye-predictor)
+
+
+### 2) Precipi-Check — Will It Rain Tomorrow? (Top Project)
+
+**Goal:** Predict next-day precipitation using historical meteorological signals (temperature, humidity, wind, etc.).  
+**Result:** Structured, reproducible pipeline comparing simple baselines against ML models, with a focus on interpretability and seasonal behavior.
+
+**What I did:**
+
+- Defined a **feature pipeline** from raw weather data to model-ready features:
+  - Temporal features (lags, rolling windows, seasonal indicators),
+  - Normalization/standardization and handling of missing values.
+- Implemented and compared **baselines vs ML models**:
+  - Naive benchmarks (e.g., “same as yesterday”),
+  - Tree-based models / Logistic Regression for precipitation probability.
+- Designed an **evaluation framework**:
+  - Global metrics (Accuracy, F1, ROC–AUC),
+  - Seasonal evaluation (performance by month/season),
+  - Error analysis to understand failure modes.
+- Explored **interpretability techniques**:
+  - Feature importance,
+  - Partial dependence plots, SHAP values.
+- Planned from the outset for **deployment**:
+  - Prediction API (FastAPI),
+  - Automation-ready daily scoring.
+
+**Next steps:**
+
+- Strengthen seasonality analysis and long-term stability checks.
+- Add formal explainability (SHAP / PDP) to the standard workflow.
+- Publish an interactive demo (Gradio/Streamlit) supported by the API already built in this repo.
+
+**Repo:** [precipi-check](https://github.com/flavioaguirre/precipi-check)
+
 
 ---
 
@@ -120,7 +166,7 @@ If a project is interesting to you, I can quickly add a demo or API endpoint.
 ---
 
 ## Certifications
-- IBM Data Science Professional Certificate — Verified on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/GOFAVW3AD1AT" target="_blank">IBM Data Science Professional Certificate</a> — Verified on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
 - In progress: IBM AI Engineering Professional Certificate.
 
 ---
