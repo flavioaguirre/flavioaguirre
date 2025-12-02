@@ -8,9 +8,7 @@
 
 <p align="center">
   Rosario, Santa Fe (AR) · 
-  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> · 
-  <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">Credly</a>  · 
-  <a href="mailto:flavioaguirre0@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a>
 </p>
 
 <!-- Botón de CV destacado -->
@@ -51,8 +49,10 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 - Visualization: Matplotlib, Seaborn, Plotly
 - Databases: PostgreSQL, SQLite, MySQL, MongoDB
 - Cloud & Tools: Google Colab, Hugging Face Spaces, VSCode, Git, Excel
-- App/Demos: Streamlit, Gradio
+- App/Demos: Streamlit, Dash
 - Soft: Clear communication, fast learning, documentation-first
+
+You can also check out my verified skill stack [by clicking here](https://www.credly.com/users/flavio-aguirre.84c58337/skills).
 
 <!-- Badges visuales sutiles -->
 <p>
@@ -173,7 +173,8 @@ If a project is interesting to you, I can quickly add a demo or API endpoint.
 
 ## Contact
 - Location: Rosario, Santa Fe (AR)
+- Email: flavioaguirre0@gmail.com
 - <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> 
 - <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">My CV</a>
-- <a href="mailto:flavioaguirre0@gmail.com">Email</a>
+
 
