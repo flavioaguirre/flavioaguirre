@@ -30,7 +30,7 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 - Engineering mindset: versioned artifacts, tests, simple CI, and deployment basics.
 
 I am currently working as a freelancer, delivering a full e-commerce website with a shopping cart system for an ice factory based in Rosario, Santa Fe (Argentina).
-
+<br>
 
 ---
 
@@ -38,6 +38,7 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 - Professional certifications with verifiable badges on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
 - Portfolio aligned with real-world DS/ML tasks (churn, weather classification, SQL EDA).
 - Comfortable across DS stack: Python, SQL, scikit-learn, PyTorch/TensorFlow (foundations), basic MLOps.
+<br>
 
 ---
 
@@ -55,6 +56,7 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 
 You can also check out my verified skill stack [by clicking here](https://www.credly.com/users/flavio-aguirre.84c58337/skills).
 
+
 <!-- Badges visuales sutiles -->
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -66,20 +68,11 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
+<br>
 
 ---
 
 ## Featured Projects
-
-<!-- Tarjetas fijadas estilo GitHub (sutil) -->
-<p align="center">
-  <a href="https://github.com/flavioaguirre/byebye-predictor">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=byebye-predictor&theme=tokyonight" alt="byebye-predictor"/>
-  </a>
-  <a href="https://github.com/flavioaguirre/precipi-check">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=precipi-check&theme=tokyonight" alt="precipi-check"/>
-  </a>
-</p>
 
 ### 1) ByeBye Predictor — Hybrid Telco Churn Prediction (Top Project)
 
@@ -117,8 +110,14 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 - Explore additional models (XGBoost, LightGBM, calibrated classifiers) in `ModelBuilder`.
 - Exposing the hybrid model and the text model behind an **API (FastAPI)** with monitoring and retraining strategy.
 
-**Repo:** [byebye-predictor](https://github.com/flavioaguirre/byebye-predictor)
+  <!-- Tarjetas fijadas -->
+<p align="center">
+  <a href="https://github.com/flavioaguirre/byebye-predictor">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=byebye-predictor&theme=tokyonight" alt="byebye-predictor"/>
+  </a>
+</p>
 
+<br>
 
 ### 2) Precipi-Check — Will It Rain Tomorrow? (Top Project)
 
@@ -150,8 +149,15 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 - Add formal explainability (SHAP / PDP) to the standard workflow.
 - Publish an interactive demo (Gradio/Streamlit) supported by the API already built in this repo.
 
-**Repo:** [precipi-check](https://github.com/flavioaguirre/precipi-check)
 
+<!-- Tarjetas fijadas -->
+  <p align="center">
+  <a href="https://github.com/flavioaguirre/precipi-check">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=precipi-check&theme=tokyonight" alt="precipi-check"/>
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -164,11 +170,15 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 
 If a project is interesting to you, I can quickly add a demo or API endpoint.
 
+<br>
+
 ---
 
 ## Certifications
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/GOFAVW3AD1AT" target="_blank">IBM Data Science Professional Certificate</a> — Verified on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
 - In progress: IBM AI Engineering Professional Certificate.
+
+<br>
 
 ---
 
@@ -178,4 +188,4 @@ If a project is interesting to you, I can quickly add a demo or API endpoint.
 - <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> 
 - <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">My CV</a>
 
-
+<br>
