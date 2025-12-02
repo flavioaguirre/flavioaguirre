@@ -14,7 +14,7 @@
 
 <!-- Botón de CV -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/15FmGoY0KxbXkpdf9oIgdcMbP8oVzyXyH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-2F80ED?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV">
   </a>
 </p>
@@ -186,6 +186,6 @@ If a project is interesting to you, I can quickly add a demo or API endpoint.
 - Location: Rosario, Santa Fe (AR)
 - Email: flavioaguirre0@gmail.com
 - <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> 
-- <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">My CV</a>
+- <a href="https://drive.google.com/file/d/15FmGoY0KxbXkpdf9oIgdcMbP8oVzyXyH/view?usp=sharing" target="_blank">My CV</a>
 
 <br>
