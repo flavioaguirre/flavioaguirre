@@ -10,8 +10,9 @@
   Rosario, Santa Fe (AR) · 
   <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> · <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">Credly – Verified Certifications</a> 
 </p>
+<br>
 
-<!-- Botón de CV destacado -->
+<!-- Botón de CV -->
 <p align="center">
   <a href="https://drive.google.com/file/d/19EWagZdD2dJtjy6OjSkaQjN9-n18SbiV/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-2F80ED?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV">
