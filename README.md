@@ -43,7 +43,7 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 ---
 
 ## Skills
-- Languages: Python, SQL, JavaScript (basic)
+- Languages: Python, SQL, JavaScript
 - DS/ML: Pandas, NumPy, Scikit-learn, Statsmodels
 - DL: PyTorch, TensorFlow/Keras (basics), Transfer Learning
 - NLP: Hugging Face Transformers (intro), spaCy
