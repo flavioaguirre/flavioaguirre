@@ -45,12 +45,12 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 ## Skills
 - Languages: Python, SQL, JavaScript
 - DS/ML: Pandas, NumPy, Scikit-learn, Statsmodels
-- DL: PyTorch, TensorFlow/Keras (basics), Transfer Learning
-- NLP: Hugging Face Transformers (intro), spaCy
-- MLOps: Docker, FastAPI, DVC (basic), GitHub Actions (CI)
+- DL: PyTorch, TensorFlow/Keras, Transfer Learning
+- NLP: Hugging Face Transformers, spaCy
+- MLOps: Docker, FastAPI, DVC, GitHub Actions (CI/CD)
 - Visualization: Matplotlib, Seaborn, Plotly
 - Databases: PostgreSQL, SQLite, MySQL, MongoDB
-- Cloud & Tools: Google Colab, Hugging Face Spaces, VSCode, Git, Excel
+- Cloud & Tools: Azzure, Hugging Face Spaces, VSCode, Git, Excel, Jupyter Notebooks, Anaconda, Miniconda
 - App/Demos: Streamlit, Dash
 - Soft: Clear communication, fast learning, documentation-first
 
