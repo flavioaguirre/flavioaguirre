@@ -43,16 +43,19 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 ---
 
 ## Skills
-- Languages: Python, SQL, JavaScript
-- DS/ML: Pandas, NumPy, Scikit-learn, Statsmodels
-- DL: PyTorch, TensorFlow/Keras, Transfer Learning
-- NLP: Hugging Face Transformers, spaCy
-- MLOps: Docker, FastAPI, DVC, GitHub Actions (CI/CD)
-- Visualization: Matplotlib, Seaborn, Plotly
-- Databases: PostgreSQL, SQLite, MySQL, MongoDB
-- Cloud & Tools: Azzure, Hugging Face Spaces, VSCode, Git, Excel, Jupyter Notebooks, Anaconda, Miniconda
-- App/Demos: Streamlit, Dash
-- Soft: Clear communication, fast learning, documentation-first
+
+- **Languages:** Python, SQL, JavaScript  
+- **Web Backend & APIs:** Django, FastAPI, RESTful APIs  
+- **Web Frontend (Foundations):** HTML, CSS, SASS  
+- **Data Science & Machine Learning:** Pandas, NumPy, scikit-learn, statsmodels  
+- **Deep Learning:** PyTorch, TensorFlow / Keras, Transfer Learning  
+- **Natural Language Processing:** Hugging Face Transformers, spaCy  
+- **MLOps & Deployment:** Docker, DVC, GitHub Actions (CI/CD)  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly  
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
+- **Cloud & Developer Tools:** Azure, Google Cloud Platform (GCP), Hugging Face Spaces, Git, VS Code, Jupyter Notebooks, Anaconda / Miniconda, Excel  
+- **Apps & Demos:** Streamlit, Dash  
+- **Soft Skills:** Clear communication, fast learner, documentation-first mindset
 
 You can also check out my verified skill stack [by clicking here](https://www.credly.com/users/flavio-aguirre.84c58337/skills).
 
