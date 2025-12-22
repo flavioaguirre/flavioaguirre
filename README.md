@@ -1,5 +1,3 @@
-<!-- Banner simple y limpio -->
-
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
@@ -29,7 +27,6 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 - Communication-first: concise READMEs, metrics that matter, and business framing.
 - Engineering mindset: versioned artifacts, tests, simple CI, and deployment basics.
 
-I am currently working as a freelancer, delivering a full e-commerce website with a shopping cart system for an ice factory based in Rosario, Santa Fe (Argentina).
 <br>
 
 ---
@@ -37,7 +34,7 @@ I am currently working as a freelancer, delivering a full e-commerce website wit
 ## Highlights
 - Professional certifications with verifiable badges on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
 - Portfolio aligned with real-world DS/ML tasks (churn, weather classification, SQL EDA).
-- Comfortable across DS stack: Python, SQL, scikit-learn, PyTorch/TensorFlow (foundations), basic MLOps.
+- Comfortable across DS stack: Python, SQL, scikit-learn, Django, MLOps, PyTorch/TensorFlow (foundations)
 <br>
 
 ---
@@ -77,7 +74,41 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 
 ## Featured Projects
 
-### 1) ByeBye Predictor — Hybrid Telco Churn Prediction (Top Project)
+### 1) Hielo Rosario — Enterprise-grade Django e-commerce platform (MVP)
+
+**Goal:** Deliver a production-ready Minimum Viable Product (MVP) for Hielo Rosario — an industrial ice producer in Rosario, Argentina — to manage catalog, orders, and fulfillment with minimal operational overhead.
+
+**Result:** End-to-end, deployable Django application providing a professional commerce flow: product catalog with volume pricing, a user-friendly checkout (delivery method selection, validation, and order reference tracking), and a tailored admin interface to manage orders and customers. The project is containerized with Docker, prepared for cloud deployment (Azure-ready IaC stubs and CI guidance), and published as a portfolio piece with documentation and a demo video.
+
+**What I did:**
+
+- Designed the overall architecture and domain model for products, price tiers, carts, and orders to support B2B and B2C workflows.
+- Implemented a polished, accessible UI with server-rendered Django templates for:
+  - Product browsing and detail pages,
+  - Cart management and quantity-based pricing,
+  - Checkout flow with delivery method selection, terms acceptance, and a blocking message when preconditions fail.
+- Built the checkout success flow with unique order reference generation and clear customer messaging for follow-up.
+- Hardened operational UX with an enhanced **Django admin**:
+  - Custom admin views and actions to let non-technical staff manage products, update order status, and reduce human error in order processing.
+- Containerized the app with Docker and Docker Compose for reproducible local development and simplified deployment.
+- Added infrastructure placeholders and documentation (infra/ with Terraform/Bicep stubs) to ease future provisioning on Azure.
+- Improved developer experience: `.env.example` with CI/Azure placeholders, test suite, pre-commit, and CI-friendly commands.
+- Produced professional documentation (README), a demo video, and a clear licensing notice for public portfolio use.
+
+**Next steps:**
+
+- Harden production deployment (Azure App Service / Container Apps) including secret management, autoscaling, and monitoring.
+- Add optional integrations: payment gateway, delivery scheduling, and reporting dashboards for operations.
+- Expand admin analytics and automated notifications to further reduce manual workload.
+
+<!-- Pinned card -->
+<p align="center">
+  <a href="https://github.com/flavioaguirre/hielo-rosario">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=hielo-rosario&theme=tokyonight" alt="hielo-rosario"/>
+  </a>
+</p>
+
+### 2) ByeBye Predictor — Hybrid Telco Churn Prediction (Top Project)
 
 **Goal:** Predict Telco customer churn by combining structured data (contracts, billing, services) with Spanish text-based churn-intent signals (Reddit comments).  
 **Result:** End-to-end, production-style pipeline with a hybrid Logistic Regression model achieving approximately **F1 ≈ 0.83** and **Accuracy ≈ 0.82** on a held-out test set.
@@ -113,7 +144,7 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 - Explore additional models (XGBoost, LightGBM, calibrated classifiers) in `ModelBuilder`.
 - Exposing the hybrid model and the text model behind an **API (FastAPI)** with monitoring and retraining strategy.
 
-  <!-- Tarjetas fijadas -->
+
 <p align="center">
   <a href="https://github.com/flavioaguirre/byebye-predictor">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=byebye-predictor&theme=tokyonight" alt="byebye-predictor"/>
@@ -122,7 +153,7 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 
 <br>
 
-### 2) Precipi-Check — Will It Rain Tomorrow? (Top Project)
+### 3) Precipi-Check — Will It Rain Tomorrow? (Top Project)
 
 **Goal:** Predict next-day precipitation using historical meteorological signals (temperature, humidity, wind, etc.).  
 **Result:** Structured, reproducible pipeline comparing simple baselines against ML models, with a focus on interpretability and seasonal behavior.
