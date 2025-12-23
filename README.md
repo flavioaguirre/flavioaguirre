@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
-  Data Scientist · Python Full‑Stack · Aspiring AI Engineer
+  Data Scientist · Python Full‑Stack · MLOps
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 ## Highlights
 - Professional certifications with verifiable badges on [Credly](https://www.credly.com/users/flavio-aguirre.84c58337).
 - Portfolio aligned with real-world DS/ML tasks (churn, weather classification, SQL EDA).
-- Comfortable across DS stack: Python, SQL, scikit-learn, Django, MLOps, PyTorch/TensorFlow (foundations)
+- Comfortable across DS stack: Python, SQL, scikit-learn, MLOps, PyTorch/TensorFlow (foundations)
 <br>
 
 ---
@@ -52,7 +52,7 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
 - **Cloud & Developer Tools:** Azure, Google Cloud Platform (GCP), Hugging Face Spaces, Git, VS Code, Jupyter Notebooks, Anaconda / Miniconda, Excel  
 - **Apps & Demos:** Streamlit, Dash  
-- **Soft Skills:** Clear communication, fast learner, documentation-first mindset
+- **Soft Skills:** Clear communication, quick learning, documentation-first mindset, end-to-end accountability, autonomy and self-management, empathy
 
 You can also check out my verified skill stack [by clicking here](https://www.credly.com/users/flavio-aguirre.84c58337/skills).
 
