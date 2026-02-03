@@ -1,22 +1,44 @@
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
-  <strong>Founder at <a href="https://kodar-systems.vercel.app/" target= "_blanck">KODAR | Systems & Consulting</a></strong>
-  <br>
-  <br>
-  Data Scientist · Python Full‑Stack · MLOps
+  <a href="https://kodar-systems.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/FOUNDER_AT_KODAR-000000?style=for-the-badge&logo=target&logoColor=white" alt="Kodar Founder">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">
+    <img src="https://img.shields.io/badge/AVAILABLE_FOR_PROJECTS-28A745?style=for-the-badge&logo=workplace&logoColor=white" alt="Available">
+  </a>
 </p>
 
 <p align="center">
-  Rosario, Santa Fe (AR) · 
-  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">LinkedIn</a> · <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">Credly – Verified Certifications</a> 
+  <samp>
+    <strong>Data Scientist · Python Full‑Stack · MLOps</strong>
+    <br>
+    <i>Engineering scalable data solutions & enterprise systems</i>
+  </samp>
 </p>
-<br>
 
-<!-- Botón de CV -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Rosario,%20AR-E1E4E8?style=flat&logo=googlemaps&logoColor=black" alt="Location">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/flavio-aguirre.84c58337" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-FFB800?style=for-the-badge&logo=credly&logoColor=white" alt="Certifications">
+  </a>
+  &nbsp;
+  <a href="mailto:flavio.aguirre.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1kDF-ZMmboAALJVwvI8CN9-DqiTpg5Nro/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-2F80ED?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV">
+    <img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
   </a>
 </p>
 
@@ -48,6 +70,7 @@ Through **Kodar**, I help businesses automate operations and scale through custo
     <img src="https://img.shields.io/badge/Book_a_Consultation-000000?style=for-the-badge&logo=calendly&logoColor=white" alt="Contact">
   </a> -->
 </p>
+<br>
 
 ---
 
