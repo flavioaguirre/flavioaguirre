@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1kDF-ZMmboAALJVwvI8CN9-DqiTpg5Nro/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1uJfVoRisgGy8IHflRFHrfiNEX6u0Hd23/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
   </a>
 </p>
@@ -171,6 +171,7 @@ A high-performance, production-ready ecosystem designed for industrial suppliers
 - **Email:** [flavio.aguirre.dev@gmail.com](mailto:flavio.aguirre.dev@gmail.com)
 - **LinkedIn:** [in/flavio-aguirre-12784a252/](https://www.linkedin.com/in/flavio-aguirre-12784a252/)
 - **Certifications:** [Verified on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)
+- Donwload CV: [CURRICULUM VITAE](https://drive.google.com/file/d/1uJfVoRisgGy8IHflRFHrfiNEX6u0Hd23/view?usp=sharing)
 
 <br>
 <br>
