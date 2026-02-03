@@ -72,6 +72,12 @@ Through **Kodar**, I help businesses automate operations and scale through custo
   </a>
 </p>
 
+
+> [!IMPORTANT]
+> **Currently accepting priority projects for Q1 2026.** 
+> If you need an MVP or an automation suite delivered in weeks, not months: <br>
+> **[Contact me via WhatsApp](https://wa.me/+543415441806)**
+
 <br>
 
 ---
@@ -165,6 +171,11 @@ A high-performance, production-ready ecosystem designed for industrial suppliers
 - **Email:** [flavio.aguirre.dev@gmail.com](mailto:flavio.aguirre.dev@gmail.com)
 - **LinkedIn:** [in/flavio-aguirre-12784a252/](https://www.linkedin.com/in/flavio-aguirre-12784a252/)
 - **Certifications:** [Verified on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)
+
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <strong>Let's build something great together. Reach out!</strong>
