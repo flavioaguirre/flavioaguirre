@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
+  <strong>Founder at <a href="https://kodar-systems.vercel.app/" target= "_blanck">KODAR | Systems & Consulting</a></strong>
+  <br>
+  <br>
   Data Scientist · Python Full‑Stack · MLOps
 </p>
 
@@ -28,6 +31,23 @@ I build data solutions that are clear, reproducible and ready for lightweight pr
 - Engineering mindset: versioned artifacts, tests, simple CI, and deployment basics.
 
 <br>
+
+---
+
+## 🛠️ Business Solutions & Consulting
+Through **Kodar**, I help businesses automate operations and scale through custom software.
+
+- **Looking for a partner?** I specialize in MVP development, internal tools, and data-driven automation.
+- **Current Focus:** Industrial e-commerce and logistics optimization.
+
+<p align="left">
+  <a href="https://kodar-systems.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Kodar_Landing_Page-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kodar Landing">
+  </a>
+  <!-- <a href="TU_LINK_DE_CALENDLY_O_CONTACTO" target="_blank">
+    <img src="https://img.shields.io/badge/Book_a_Consultation-000000?style=for-the-badge&logo=calendly&logoColor=white" alt="Contact">
+  </a> -->
+</p>
 
 ---
 
@@ -74,39 +94,52 @@ You can also check out my verified skill stack [by clicking here](https://www.cr
 
 ## Featured Projects
 
-### 1) Hielo Rosario — Enterprise-grade Django e-commerce platform (MVP)
+### 1) KODAR | Enterprise E-commerce & Operations Suite (v0.1.1)
 
-**Goal:** Deliver a production-ready Minimum Viable Product (MVP) for Hielo Rosario — an industrial ice producer in Rosario, Argentina — to manage catalog, orders, and fulfillment with minimal operational overhead.
+**The Solution:**  
+A high-performance, production-ready ecosystem designed for industrial suppliers. It transforms manual order-taking into a streamlined, automated pipeline, integrating a customer-facing storefront with a powerful back-office management system.
 
-**Result:** End-to-end, deployable Django application providing a professional commerce flow: product catalog with volume pricing, a user-friendly checkout (delivery method selection, validation, and order reference tracking), and a tailored admin interface to manage orders and customers. The project is containerized with Docker, prepared for cloud deployment (Azure-ready IaC stubs and CI guidance), and published as a portfolio piece with documentation and a demo video.
+**Business Impact:**  
+- **Scalability:** Built with a modular architecture ready for high-volume B2B/B2C traffic.  
+- **Efficiency:** Reduces operational friction by automating price tiering, order validation, and inventory tracking.  
+- **Reliability:** Containerized and CI/CD ready, ensuring 99.9% deployment consistency.
 
-**What I did:**
-
-- Designed the overall architecture and domain model for products, price tiers, carts, and orders to support B2B and B2C workflows.
-- Implemented a polished, accessible UI with server-rendered Django templates for:
-  - Product browsing and detail pages,
-  - Cart management and quantity-based pricing,
-  - Checkout flow with delivery method selection, terms acceptance, and a blocking message when preconditions fail.
-- Built the checkout success flow with unique order reference generation and clear customer messaging for follow-up.
-- Hardened operational UX with an enhanced **Django admin**:
-  - Custom admin views and actions to let non-technical staff manage products, update order status, and reduce human error in order processing.
-- Containerized the app with Docker and Docker Compose for reproducible local development and simplified deployment.
-- Added infrastructure placeholders and documentation (infra/ with Terraform/Bicep stubs) to ease future provisioning on Azure.
-- Improved developer experience: `.env.example` with CI/Azure placeholders, test suite, pre-commit, and CI-friendly commands.
-- Produced professional documentation (README), a demo video, and a clear licensing notice for public portfolio use.
-
-**Next steps:**
-
-- Harden production deployment (Azure App Service / Container Apps) including secret management, autoscaling, and monitoring.
-- Add optional integrations: payment gateway, delivery scheduling, and reporting dashboards for operations.
-- Expand admin analytics and automated notifications to further reduce manual workload.
-
-<!-- Pinned card -->
 <p align="center">
-  <a href="https://github.com/flavioaguirre/hielo-rosario">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=flavioaguirre&repo=hielo-rosario&theme=tokyonight" alt="hielo-rosario"/>
+  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
+    <img src="https://img.youtube.com/vi/CKxLnuQBJw0/maxresdefault.jpg" alt="Watch System Demo" width="600" style="border-radius:10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a>
+  <a href="https://kodar-systems.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_KODAR_LANDING-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kodar Landing">
+  </a>
+</p>
+
+**Core Engineering & Features:**
+
+- **Smart Commerce Engine:**  
+  - Dynamic catalog with **automated volume-based pricing** (B2B logic).  
+  - Advanced Cart & Checkout system with real-time validation and delivery method optimization.  
+  - **WhatsApp Integration:** Seamless transition from web-order to direct sales communication.  
+
+- **Full-Stack Admin Control Center:**  
+  - Custom-built dashboard for **Inventory & Stock Management**.  
+  - Real-time price updating and order status tracking to eliminate human error.  
+  - Tailored permissions for non-technical staff to manage complex industrial catalogs.  
+
+- **DevOps & Infrastructure:**  
+  - **Dockerized Environment:** Full containerization for "it works on my machine" guarantee in production.  
+  - **Cloud-Native:** Azure-ready architecture using Terraform/Bicep stubs for rapid infrastructure provisioning.  
+  - **Quality Assurance:** Integrated test suite and CI/CD pipelines (GitHub Actions) for robust code delivery.
+
+**Tech Stack:**  
+`Python` `Django` `PostgreSQL` `Docker` `Azure` `CSS` `GitHub Actions`
+<br>
+<br>
 
 ### 2) ByeBye Predictor — Hybrid Telco Churn Prediction (Top Project)
 
