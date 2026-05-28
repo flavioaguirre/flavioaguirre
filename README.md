@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
-  <a href="https://kodar-systems.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/FOUNDER_AT_KODAR-000000?style=for-the-badge&logo=target&logoColor=white" alt="Kodar Founder">
+  <a href="https://kodar.systems" target="_blank">
+    <img src="https://img.shields.io/badge/FOUNDER_AT_KODAR_SYSTEMS-000000?style=for-the-badge&logo=target&logoColor=white" alt="Kodar Founder">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">
+  <a href="https://www.linkedin.com/in/flavio-aguirre/es" target="_blank">
     <img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE_&_PROJECTS-28A745?style=for-the-badge&logo=workplace&logoColor=white" alt="Available">
   </a>
 </p>
 
 <p align="center">
   <samp>
-    <strong>Data Scientist · Python Full‑Stack · MLOps</strong>
+    <strong>Python Developer · Data Scientist · MLOps Engineer</strong>
     <br>
-    <i>Engineering scalable data solutions & enterprise-grade systems</i>
+    <i>Architecting robust SaaS solutions & engineering reproducible data pipelines</i>
   </samp>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/flavio-aguirre-12784a252/" target="_blank">
+  <a href="https://www.linkedin.com/in/flavio-aguirre/es" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -31,13 +31,13 @@
     <img src="https://img.shields.io/badge/Certifications-FFB800?style=for-the-badge&logo=credly&logoColor=white" alt="Certifications">
   </a>
   &nbsp;
-  <a href="mailto:flavio.aguirre.dev@gmail.com">
+  <a href="mailto:flavioaguirre0@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1uJfVoRisgGy8IHflRFHrfiNEX6u0Hd23/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1WEPbtXaKeP6vhoTz7KNDKomyuLytKzVW/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
   </a>
 </p>
@@ -46,82 +46,76 @@
 
 ---
 
-## 🎯 Value Proposition
-I build data solutions that are clear, reproducible, and ready for production:
-- **End-to-End Delivery:** From raw datasets to deployed models and interactive demos.
-- **Business-Centric:** Focus on metrics that matter and clear communication.
-- **Engineering Excellence:** Versioned artifacts, CI/CD pipelines, and containerized environments.
+## 🎯 Value Proposition & Engineering Philosophy
+I am a hybrid developer and data scientist driven by a relentless focus on delivery, resilience, and software excellence. I build software systems designed to survive real-world production environments:
+- **Resilient Architectures:** Deep focus on modular design, clean code, rigorous testing (Pytest), and standardized logging.
+- **Data-Driven Logic:** Building deterministic software solutions and processing unstructured pipelines to back business decisions with metrics.
+- **Production First:** Heavy emphasis on deployment traceability through containerization, strict version control (Conventional Commits), and stable cloud delivery.
 
 <br>
 
 ---
 
-## 🛠️ Business Solutions & Consulting
-Through **Kodar**, I help businesses automate operations and scale through custom software.
+## 🚀 Featured Projects & Production Systems
 
-- **Looking for a partner?** I specialize in MVP development, internal tools, and data-driven automation.
-- **Current Focus:** Industrial e-commerce and logistics optimization.
+### 1) KODAR ERP | Multi-Tenant SaaS Administrative Suite (v1.1.0) 🌟
 
-<p align="left">
-  <a href="https://kodar-systems.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Kodar_Landing_Page-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kodar Landing">
-  </a>
-  &nbsp;
-  <a href="mailto:flavio.aguirre.dev@gmail.com?subject=Consulting%20Inquiry">
-    <img src="https://img.shields.io/badge/Hire_Me_/_Consulting-000000?style=for-the-badge&logo=mail-dot-ru&logoColor=white" alt="Contact">
-  </a>
-</p>
+**The Solution:** An enterprise-grade, high-performance cloud ERP designed to eliminate business leaks, track cash flow, and control inventory. It features an advanced back-office dashboard built to sustain complex operational business logic.
 
-
-> [!IMPORTANT]
-> **Currently accepting priority projects for Q1 2026.** 
-> If you need an MVP or an automation suite delivered in weeks, not months: <br>
-> **[Contact me via WhatsApp](https://wa.me/+543415441806)**
-
-<br>
-
----
-
-## 🚀 Featured Projects
-
-### 1) KODAR | Enterprise E-commerce & Operations Suite (v0.1.1)
-
-**The Solution:**  
-A high-performance, production-ready ecosystem designed for industrial suppliers. It transforms manual order-taking into a automated pipeline, integrating a storefront with a powerful back-office management system.
-
-**Business Impact:**  
-- **Scalability:** Modular architecture ready for high-volume B2B/B2C traffic.  
-- **Efficiency:** Automates price tiering, order validation, and inventory tracking.  
-- **Reliability:** Containerized and CI/CD ready (99.9% deployment consistency).
+**Core Technical Achievements & Features:** - **Dynamic Multi-Tenancy:** Implemented strict, critical customer data isolation using dynamic database schemas via PostgreSQL.
+- **Advanced Inventory & KARDEX:** Full historical tracking of every inventory movement (KARDEX) with real-time stock signals and batch-specific expiration alerts.
+- **Operator Security via PIN:** Secure point-of-sale terminal transactions strictly auditable via individual user PIN access control codes.
+- **Role-Based Access Control (RBAC):** Built-in permission tier structures catering to 3 distinct native profiles (Owner, Administrator, and Operator).
+- **Asynchronous Workflows:** Automated compilation of shift closures, rendering and emailing summary executive PDFs to the business owner asynchronously.
+- **Cross-Device Optimization:** UI layout fully responsive and optimized for seamless use across desktop stations, tablets, and mobile smartphones.
+- **Infrastructure & Automation:** Automated builds deployed in containerized Docker environments over high-availability VPS networks in DigitalOcean.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
-    <img src="https://img.youtube.com/vi/CKxLnuQBJw0/maxresdefault.jpg" alt="Watch System Demo" width="600" style="border-radius:10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
+  <a href="https://youtu.be/zHOHcIV8EMA" target="_blank">
+    <img src="https://img.youtube.com/vi/zHOHcIV8EMA/maxresdefault.jpg" alt="Watch ERP System Demo" width="600" style="border-radius:10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
-    <img src="https://img.shields.io/badge/WATCH_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  <a href="https://youtu.be/zHOHcIV8EMA" target="_blank">
+    <img src="https://img.shields.io/badge/WATCH_ERP_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube ERP Demo">
   </a>
   &nbsp;
-  <a href="https://kodar-systems.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_KODAR_LANDING-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kodar Landing">
+  <a href="https://kodar.systems" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_KODAR_OFFICIAL-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Kodar Website">
   </a>
 </p>
 
-**Core Engineering:**
-- **Smart Commerce Engine:** Dynamic catalog with automated volume-based pricing & WhatsApp integration.
-- **Admin Control Center:** Custom dashboard for Inventory, Stock, and Order tracking.
-- **DevOps:** Dockerized environment, Azure-ready IaC, and GitHub Actions CI/CD.
-
-**Tech Stack:** `Python` `Django` `PostgreSQL` `Docker` `Azure` `GitHub Actions`
+**Tech Stack:** `Python` `Django` `PostgreSQL (Schemas)` `Docker` `DigitalOcean` `Gitflow` `Pytest`
 
 <br>
 
-### 2) ByeBye Predictor — Hybrid Telco Churn Prediction
-**Goal:** Predict customer churn by combining structured data with Spanish NLP signals from social media.  
-**Result:** Hybrid Logistic Regression model achieving **F1 ≈ 0.83**.
+### 2) KODAR Catalog | Autonomous WhatsApp E-Commerce
+
+**The Solution:** A high-volume, zero-friction digital storefront designed to convert manual message-based orders into structured sales data. It can operate completely standalone or sync natively with the KODAR ERP ecosystem.
+
+**Key Features:** - **Dynamic Catalog Engine:** Real-time stock synchronization and custom volume-based automated pricing tiers.
+- **WhatsApp Integration Pipeline:** Automates order generation and compiles purchase details into clean data structures sent directly to the merchant's dispatcher.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
+    <img src="https://img.youtube.com/vi/CKxLnuQBJw0/maxresdefault.jpg" alt="Watch Catalog Demo" width="600" style="border-radius:10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
+    <img src="https://img.shields.io/badge/WATCH_CATALOG_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a>
+</p>
+
+**Tech Stack:** `Python` `Django` `JavaScript (ES6+)` `PostgreSQL` `Vercel`
+
+<br>
+
+### 3) ByeBye Predictor — Hybrid Telco Churn Prediction Pipeline
+**Goal:** Mitigate customer attrition by fusing raw structured customer records with Spanish NLP feedback loops extracted directly from online communities.  
+**Engineering Impact:** Built processing pipelines with spaCy NLP and integrated Reddit API ingestion routines (PRAW). Achieved a validated **F1 Score = 0.83**.
 
 <p align="center">
   <a href="https://github.com/flavioaguirre/byebye-predictor">
@@ -131,9 +125,9 @@ A high-performance, production-ready ecosystem designed for industrial suppliers
 
 <br>
 
-### 3) Precipi-Check — Weather Forecasting Pipeline
-**Goal:** Predict next-day precipitation using historical meteorological signals.  
-**Result:** Reproducible ML pipeline with focus on seasonal interpretability and SHAP values.
+### 4) Precipi-Check — Weather Forecasting Pipeline
+**Goal:** Build a robust, end-to-end meteorological tracking service focused on predictive clarity.  
+**Engineering Impact:** Engineered reproducible data transformation pipelines utilizing advanced machine learning models interpreted via SHAP value features to ensure seasonal statistical consistency.
 
 <p align="center">
   <a href="https://github.com/flavioaguirre/precipi-check">
@@ -145,39 +139,36 @@ A high-performance, production-ready ecosystem designed for industrial suppliers
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Technical Arsenal
 
-- **Languages:** Python, SQL, JavaScript  
-- **Data Science:** Pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn  
-- **Deep Learning & NLP:** PyTorch, TensorFlow, Hugging Face, spaCy  
-- **Backend & MLOps:** Django, FastAPI, Docker, DVC, GitHub Actions  
-- **Cloud & DB:** Azure, GCP, PostgreSQL, MongoDB, MySQL
+- **Languages:** Python, SQL, JavaScript (ES6+), HTML5/CSS3  
+- **Data Science & ML:** Advanced Pandas, NumPy, Scikit-learn, PyTorch, Pytest
+- **NLP & Feature Extraction:** Natural Language Processing (spaCy, Hugging Face transformers), Model Interpretability (SHAP)  
+- **Backend & MLOps Infrastructure:** Django Architecture, FastAPI, RESTful API Engineering, Docker Containerization, pyproject.toml  
+- **Databases & DevOps:** PostgreSQL (Advanced Schema isolation), Git/Gitflow management, Conventional Commits standard, DigitalOcean VPS infrastructure
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 <br>
 
 ---
 
-## 📬 Contact & Links
-- **Location:** Rosario, Santa Fe (AR)
-- **Email:** [flavio.aguirre.dev@gmail.com](mailto:flavio.aguirre.dev@gmail.com)
-- **LinkedIn:** [in/flavio-aguirre-12784a252/](https://www.linkedin.com/in/flavio-aguirre-12784a252/)
-- **Certifications:** [Verified on Credly](https://www.credly.com/users/flavio-aguirre.84c58337)
-- Donwload CV: [CURRICULUM VITAE](https://drive.google.com/file/d/1uJfVoRisgGy8IHflRFHrfiNEX6u0Hd23/view?usp=sharing)
+## 📬 Contact & Credentials
+- **Location:** Rosario, Santa Fe, Argentina
+- **Professional Contact:** [flavio.aguirre.dev@gmail.com](mailto:flavio.aguirre.dev@gmail.com)
+- **LinkedIn Identity:** [linkedin.com/in/flavio-aguirre/es](https://www.linkedin.com/in/flavio-aguirre/es)
+- **Academic Certifications:** [IBM Data Science Professional Certificate via Credly](https://www.credly.com/users/flavio-aguirre.84c58337)
+- **Curriculum Vitae:** [Go to file](https://drive.google.com/file/d/1WEPbtXaKeP6vhoTz7KNDKomyuLytKzVW/view?usp=sharing)
 
-<br>
-<br>
-<br>
 <br>
 
 <p align="center">
-  <strong>Let's build something great together. Reach out!</strong>
+  <strong>Let's build scalable software and reliable data pipelines together.</strong>
 </p>
