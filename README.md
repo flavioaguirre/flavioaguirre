@@ -1,12 +1,16 @@
 <h1 align="center">Hi, I'm Flavio Aguirre</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/flavio-aguirre/es" target="_blank">
+    <img src="https://img.shields.io/badge/PYTHON_BACKEND_DEVELOPER-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend Developer">
+  </a>
+  &nbsp;
   <a href="https://kodar.systems" target="_blank">
-    <img src="https://img.shields.io/badge/FOUNDER_AT_KODAR_SYSTEMS-000000?style=for-the-badge&logo=target&logoColor=white" alt="Kodar Founder">
+    <img src="https://img.shields.io/badge/SAAS_PRODUCT_ENGINEER-092E20?style=for-the-badge&logo=django&logoColor=white" alt="SaaS Product Engineer">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/flavio-aguirre/es" target="_blank">
-    <img src="https://img.shields.io/badge/AVAILABLE_FOR_HIRE_&_PROJECTS-28A745?style=for-the-badge&logo=workplace&logoColor=white" alt="Available">
+    <img src="https://img.shields.io/badge/OPEN_TO_FULL_TIME_ROLES-28A745?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Full-Time Roles">
   </a>
 </p>
 
@@ -37,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1WEPbtXaKeP6vhoTz7KNDKomyuLytKzVW/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1UcQmNFj7IQECLbGWV1w8KFEHb8-AJ9pl/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-2F80ED?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
   </a>
 </p>
@@ -46,30 +50,40 @@
 
 ---
 
-## 🎯 Value Proposition & Engineering Philosophy
-I am a hybrid developer and data scientist driven by a relentless focus on delivery, resilience, and software excellence. I build software systems designed to survive real-world production environments:
-- **Resilient Architectures:** Deep focus on modular design, clean code, rigorous testing (Pytest), and standardized logging.
-- **Data-Driven Logic:** Building deterministic software solutions and processing unstructured pipelines to back business decisions with metrics.
-- **Production First:** Heavy emphasis on deployment traceability through containerization, strict version control (Conventional Commits), and stable cloud delivery.
+## 🎯 Engineering Focus
+
+I am a Python Full-Stack Developer with a strong backend focus, building SaaS applications, REST APIs, relational database models, automated workflows, and reproducible data pipelines.
+
+My work combines software engineering practices with data-driven systems: modular architecture, automated testing, clean version control, containerized deployments, and production-oriented delivery.
+
+- **Backend & SaaS:** Django, FastAPI, REST APIs, PostgreSQL, multi-tenant architecture, business logic modeling.
+- **Engineering Quality:** Pytest, modular design, Conventional Commits, Git/Gitflow, structured logging, maintainable codebases.
+- **Data & Automation:** Pandas, Scikit-learn, NLP pipelines, model interpretation, process automation and reporting.
+- **Deployment:** Dockerized applications, GitHub Actions, DigitalOcean VPS infrastructure and cloud delivery.
 
 <br>
 
----
+## 🚀 Featured Production Systems
 
-## 🚀 Featured Projects & Production Systems
+> **Note:** KODAR ERP and KODAR Catalog are private production systems. The source code is not public, but functional demos are available below.
 
-### 1) KODAR ERP | Multi-Tenant SaaS Administrative Suite (v1.1.0) 🌟
+### 1) KODAR ERP | Multi-Tenant SaaS Management System
 
-**The Solution:** An enterprise-grade, high-performance cloud ERP designed to eliminate business leaks, track cash flow, and control inventory. It features an advanced back-office dashboard built to sustain complex operational business logic.
+**Overview:**  
+KODAR ERP is a SaaS management system built with Python, Django and PostgreSQL, focused on inventory control, sales operations, cash flow tracking, role-based access and business process automation.
 
-**Core Technical Achievements & Features:**
-- **Dynamic Multi-Tenancy:** Implemented strict, critical customer data isolation using dynamic database schemas via PostgreSQL.
-- **Advanced Inventory & KARDEX:** Full historical tracking of every inventory movement (KARDEX) with real-time stock signals and batch-specific expiration alerts.
-- **Operator Security via PIN:** Secure point-of-sale terminal transactions strictly auditable via individual user PIN access control codes.
-- **Role-Based Access Control (RBAC):** Built-in permission tier structures catering to 3 distinct native profiles (Owner, Administrator, and Operator).
-- **Asynchronous Workflows:** Automated compilation of shift closures, rendering and emailing summary executive PDFs to the business owner asynchronously.
-- **Cross-Device Optimization:** UI layout fully responsive and optimized for seamless use across desktop stations, tablets, and mobile smartphones.
-- **Infrastructure & Automation:** Automated builds deployed in containerized Docker environments over high-availability VPS networks in DigitalOcean.
+The system is designed around a multi-tenant architecture, transactional business logic, auditable operations and cloud deployment using Docker-based environments.
+
+**Technical Highlights:**
+
+- **Multi-Tenant Architecture:** Implemented tenant data isolation using dynamic PostgreSQL schemas.
+- **Inventory & KARDEX Tracking:** Built historical inventory movement tracking, real-time stock updates, batch control and expiration alerts.
+- **Transactional Business Logic:** Developed modules for sales operations, cash handling, shift closures and inventory adjustments.
+- **Role-Based Access Control:** Implemented permission levels for Owner, Administrator and Operator profiles.
+- **Operator PIN Validation:** Added auditable POS-style transaction validation using individual operator PIN codes.
+- **Asynchronous Reporting:** Automated shift closing summaries with PDF generation and email delivery.
+- **Responsive Interface:** Built cross-device layouts for desktop, tablet and mobile usage.
+- **Deployment & Automation:** Containerized the application with Docker and deployed it on DigitalOcean infrastructure using Git-based workflows.
 
 <p align="center">
   <a href="https://youtu.be/zHOHcIV8EMA" target="_blank">
@@ -81,9 +95,14 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
   <a href="https://youtu.be/zHOHcIV8EMA" target="_blank">
     <img src="https://img.shields.io/badge/WATCH_ERP_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube ERP Demo">
   </a>
+  &nbsp;
+  <a href="https://kodar.systems" target="_blank">
+    <img src="https://img.shields.io/badge/COMMERCIAL_LANDING-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="KODAR Commercial Landing">
+  </a>
 </p>
 
-**Technologies Deployed:**
+**Technologies:**
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -96,13 +115,21 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
 
 <br>
 
-### 2) KODAR Catalog | Autonomous WhatsApp E-Commerce
+### 2) KODAR Catalog | WhatsApp-Integrated Digital Catalog
 
-**The Solution:** A high-volume, zero-friction digital storefront designed to convert manual message-based orders into structured sales data. It can operate completely standalone or sync natively with the KODAR ERP ecosystem.
+**Overview:**  
+KODAR Catalog is a digital storefront connected to the KODAR ERP ecosystem. It allows merchants to publish products, synchronize stock, apply pricing rules and receive structured order requests through WhatsApp.
 
-**Key Features:**
-- **Dynamic Catalog Engine:** Real-time stock synchronization and custom volume-based automated pricing tiers.
-- **WhatsApp Integration Pipeline:** Automates order generation and compiles purchase details into clean data structures sent directly to the merchant's dispatcher.
+The goal was to transform informal message-based sales into a more structured, trackable and automated order flow.
+
+**Technical Highlights:**
+
+- **Dynamic Product Catalog:** Built a catalog interface connected to product, stock and pricing data.
+- **Stock Synchronization:** Integrated inventory availability with the ERP data model.
+- **Pricing Logic:** Added support for volume-based pricing and custom commercial rules.
+- **WhatsApp Order Flow:** Generated structured order summaries that can be sent directly to the merchant through WhatsApp.
+- **Standalone or Integrated Usage:** Designed the catalog to work independently or as part of the KODAR ERP ecosystem.
+- **Cloud Deployment:** Deployed the system using Django, PostgreSQL and DigitalOcean infrastructure.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
@@ -112,11 +139,12 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=CKxLnuQBJw0" target="_blank">
-    <img src="https://img.shields.io/badge/WATCH_CATALOG_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+    <img src="https://img.shields.io/badge/WATCH_CATALOG_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Catalog Demo">
   </a>
 </p>
 
-**Technologies Deployed:**
+**Technologies:**
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -128,9 +156,21 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
 
 <br>
 
-### 3) ByeBye Predictor — Hybrid Telco Churn Prediction Pipeline
-**Goal:** Mitigate customer attrition by fusing raw structured customer records with Spanish NLP feedback loops extracted directly from online communities.  
-**Engineering Impact:** Built processing pipelines with spaCy NLP and integrated Reddit API ingestion routines (PRAW). Achieved a validated **F1 Score = 0.83**.
+## 📊 Data Science & Machine Learning Projects
+
+### 3) ByeBye Predictor | Hybrid Telco Churn Prediction Pipeline
+
+**Overview:**  
+ByeBye Predictor is a machine learning project focused on customer churn prediction. It combines structured customer data with Spanish NLP processing to analyze user feedback and improve attrition risk detection.
+
+**Technical Highlights:**
+
+- Built data cleaning and preprocessing pipelines for structured customer records.
+- Integrated Reddit API ingestion using PRAW to collect unstructured Spanish-language feedback.
+- Applied NLP processing with spaCy to extract signals from text data.
+- Trained and evaluated churn prediction models using Scikit-learn.
+- Achieved a validated **F1 Score = 0.83**.
+- Organized the project as a reproducible machine learning pipeline.
 
 <p align="center">
   <a href="https://github.com/flavioaguirre/byebye-predictor">
@@ -138,7 +178,8 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
   </a>
 </p>
 
-**Technologies Deployed:**
+**Technologies:**
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -149,9 +190,18 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
 
 <br>
 
-### 4) Precipi-Check — Weather Forecasting Pipeline
-**Goal:** Build a robust, end-to-end meteorological tracking service focused on predictive clarity.  
-**Engineering Impact:** Engineered reproducible data transformation pipelines utilizing advanced machine learning models interpreted via SHAP value features to ensure seasonal statistical consistency.
+### 4) Precipi-Check | Weather Forecasting & Model Interpretability Pipeline
+
+**Overview:**  
+Precipi-Check is a weather-focused data science project built around reproducible data transformations, predictive modeling and model interpretability.
+
+**Technical Highlights:**
+
+- Built data transformation pipelines for meteorological analysis.
+- Trained machine learning models for weather-related prediction tasks.
+- Applied SHAP values to explain model behavior and improve interpretability.
+- Performed seasonal and statistical analysis to evaluate prediction consistency.
+- Structured the project with reproducibility and clear data processing stages in mind.
 
 <p align="center">
   <a href="https://github.com/flavioaguirre/precipi-check">
@@ -159,7 +209,8 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
   </a>
 </p>
 
-**Technologies Deployed:**
+**Technologies:**
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -200,7 +251,7 @@ I am a hybrid developer and data scientist driven by a relentless focus on deliv
 - **Professional Contact:** [flavioaguirre0@gmail.com](mailto:flavioaguirre0@gmail.com)
 - **LinkedIn Identity:** [linkedin.com/in/flavio-aguirre/es](https://www.linkedin.com/in/flavio-aguirre/es)
 - **Academic Certifications:** [IBM Data Science Professional Certificate via Credly](https://www.credly.com/users/flavio-aguirre.84c58337)
-- **Curriculum Vitae:** [Go to file](https://drive.google.com/file/d/1WEPbtXaKeP6vhoTz7KNDKomyuLytKzVW/view?usp=sharing)
+- **Curriculum Vitae:** [Go to file](https://drive.google.com/file/d/1UcQmNFj7IQECLbGWV1w8KFEHb8-AJ9pl/view?usp=sharing)
 
 <br>
 
